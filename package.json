@@ -39,7 +39,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
-    "geckodriver": "^1.20.0",
+    "geckodriver": "^2.0.1",
     "jest-transform-stub": "^2.0.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.3.1",
